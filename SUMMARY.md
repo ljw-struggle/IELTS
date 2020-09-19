@@ -13,8 +13,8 @@
 
 * [Speaking Part 1](ielts-speaking/speaking-part-1/README.md)
   * [Questions](ielts-speaking/speaking-part-1/questions.md)
-  * [Home Town & The area you live in 👌](ielts-speaking/speaking-part-1/untitled.md)
-  * [The area you live in](ielts-speaking/speaking-part-1/the-area-you-live-in.md)
+  * [Home Town 👌](ielts-speaking/speaking-part-1/untitled.md)
+  * [Area You Live 👌](ielts-speaking/speaking-part-1/the-area-you-live-in.md)
   * [Study 👌](ielts-speaking/speaking-part-1/study.md)
   * [Work](ielts-speaking/speaking-part-1/work.md)
   * [Home](ielts-speaking/speaking-part-1/home.md)

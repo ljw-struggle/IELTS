@@ -1,4 +1,8 @@
-# Home Town & The area you live in 👌
+---
+description: The place where you were born or lived as a child.
+---
+
+# Home Town 👌
 
 ### _Question:_
 
@@ -11,6 +15,17 @@
 * _Do you think you will continue living there for a long time?_
 
 ### _Answer:_
+
+* _What’s \(the name of\) your hometown?_
+
+\_\_
+
+* _Is that a big city or a small place?_
+* _How long have you lived there?_
+* _Do you like it? / Do you like living there?_
+* _What do you like \(the most\) about your hometown?_
+* _Is there anything you dislike about it?_
+* _Do you think you will continue living there for a long time?_
 
 _My hometown's name is  Linzhou._
 
