@@ -18,7 +18,7 @@
 16. _**Presents and gifts**_
 17. _**Newspaper and Magazines**_
 18. _**Stages in life**_
-19. _**Concentration**_
+19. _**Concentration \(New 9-12\)**_
 20. _**Handwriting**_
 21. _**List**_
 22. _**Furniture**_
@@ -30,4 +30,10 @@
 28. _**Text messages**_
 29. _**Weekend**_
 30. _**In a hurry**_
+
+{% hint style="info" %}
+_**Copyright @ Jiawei Li \(**_[_**www.ljwstruggle.com**_](www.ljwstruggle.com)_**\)**_
+{% endhint %}
+
+_\*\*\*\*_
 
