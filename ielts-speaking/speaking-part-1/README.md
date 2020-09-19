@@ -31,8 +31,6 @@
 29. _**Weekend**_
 30. _**In a hurry**_
 
-&lt;font color='blue'&gt;蓝色字体&lt;/font&gt;
-
 
 
 {% hint style="info" %}
