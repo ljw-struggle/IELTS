@@ -31,6 +31,8 @@
 29. _**Weekend**_
 30. _**In a hurry**_
 
+蓝色字体
+
 {% hint style="info" %}
 _**Copyright @ Jiawei Li \(**_[_**www.ljwstruggle.com**_](www.ljwstruggle.com)_**\)**_
 {% endhint %}
