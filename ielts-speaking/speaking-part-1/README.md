@@ -1,35 +1,35 @@
 # Speaking Part 1
 
-1. _**Study**_
-2. _**Work**_
-3. _**Hometown**_
-4. _**The area you live in**_
-5. _**Home \(accommodation\)**_
-6. _**Fishing**_
-7. _**Being Tidy**_
-8. _**Celebrities**_
-9. _**Staying up late**_
-10. _**Jokes & Comedies**_
-11. _**Shopping**_
-12. _**Extreme sports**_
-13. _**Public transport**_
-14. _**Chatting**_
-15. _**Borrowing things**_
-16. _**Presents and gifts**_
-17. _**Newspaper and Magazines**_
-18. _**Stages in life**_
-19. _**Concentration \(New 9-12\)**_
-20. _**Handwriting**_
-21. _**List**_
-22. _**Furniture**_
-23. _**Change**_
-24. _**Picnic**_
-25. _**Clothes**_
-26. _**Sports**_
-27. _**Recycle**_
-28. _**Text messages**_
-29. _**Weekend**_
-30. _**In a hurry**_
+1. _Study **\(Frequently\)**_
+2. _Work **\(Frequently\)**_
+3. _Hometown **\(Frequently\)**_
+4. _The area you live in **\(Frequently\)**_
+5. _Home \(accommodation\) **\(Frequently\)**_
+6. _Fishing_
+7. _Being Tidy_
+8. _Celebrities_
+9. _Staying up late_
+10. _Jokes & Comedies_
+11. _Shopping_
+12. _Extreme sports_
+13. _Public transport_
+14. _Chatting_
+15. _Borrowing things_
+16. _Presents and gifts_
+17. _Newspaper and Magazines_
+18. _Stages in life_
+19. _Concentration **\(New 9-12\)**_
+20. _Handwriting **\(New 9-12\)**_
+21. _List **\(New 9-12\)**_
+22. _Furniture **\(New 9-12\)**_
+23. _Change **\(New 9-12\)**_
+24. _Picnic **\(New 9-12\)**_
+25. _Clothes **\(New 9-12\)**_
+26. _Sports **\(New 9-12\)**_
+27. _Recycle **\(New 9-12\)**_
+28. _Text messages **\(New 9-12\)**_
+29. _Weekend **\(New 9-12\)**_
+30. _In a hurry **\(New 9-12\)**_
 
 
 
