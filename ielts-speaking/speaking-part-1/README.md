@@ -1,12 +1,6 @@
 # Speaking Part 1
 
 1. _Study **\(Frequently\)**_
-   * Why did you choose that subject?
-   * Is it interesting?
-   * What subjects are you studying?
-   * Do you prefer to study in the mornings or in the afternoon?
-   * Are you looking forward to working?
-   * Do you like your subject?
 2. _Work **\(Frequently\)**_
 3. _Hometown **\(Frequently\)**_
 4. _The area you live in **\(Frequently\)**_
