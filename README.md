@@ -1,8 +1,8 @@
 ---
-description: My IELTS Materials.
+description: IELTS Examination Materials
 ---
 
-# Introduction
+# IELTS Examination
 
 ![Just do it ! Be ambitous ! ](.gitbook/assets/test-small.jpg)
 
