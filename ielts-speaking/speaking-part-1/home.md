@@ -2,5 +2,5 @@
 description: Home or Accommodation.
 ---
 
-# Home
+# ⭐ Home
 

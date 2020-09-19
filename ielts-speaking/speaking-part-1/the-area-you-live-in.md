@@ -2,5 +2,5 @@
 description: The Area that you live in.
 ---
 
-# Area You Live 👌
+# ⭐ Area You Live
 

@@ -2,7 +2,7 @@
 description: The place where you were born or lived as a child.
 ---
 
-# Home Town 👌
+# ⭐ Home Town
 
 ### _Question:_
 
