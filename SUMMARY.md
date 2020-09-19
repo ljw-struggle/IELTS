@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 
-## IELTS WRITING <a id="ielts_writing"></a>
+## IELTS WRITING
 
-* [Introduction](ielts_writing/introduction.md)
+* [Introduction](ielts-writing/introduction.md)
 
 ## IELTS SPEAKING
 
