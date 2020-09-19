@@ -66,9 +66,3 @@ _Yes, I think I will continue to living there for a long time. because I love my
 
 \_\_
 
-\_\_
-
-\_\_
-
-\_\_
-
