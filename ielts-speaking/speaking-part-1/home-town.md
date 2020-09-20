@@ -58,11 +58,11 @@ _I dislike the quality of the people. because there are many low-quality people.
 
 _Yes, I think I will continue to living there for a long time. because I love my hometown._
 
-_\*\*\*\*_
+\_\_
 
 _**Reference:**_
 
 [_https://wenku.baidu.com/view/9c4093f0e209581b6bd97f19227916888486b973.html_](https://wenku.baidu.com/view/9c4093f0e209581b6bd97f19227916888486b973.html)
 
-\_\_
+
 
